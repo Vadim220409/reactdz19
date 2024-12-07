@@ -1,0 +1,21 @@
+header {
+  background-color: blue;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  height: 30px;
+  width: 500px;
+}
+
+button {
+  width: 100px;
+}
